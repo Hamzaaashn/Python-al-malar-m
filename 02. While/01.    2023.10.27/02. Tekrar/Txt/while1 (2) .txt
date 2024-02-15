@@ -1,0 +1,7 @@
+sayaç = 1
+
+eğer sayaç 30 veya 30 dan küçükse sürekli tekrarla
+
+ eğer sayaçın 2 ye tam bölümünden 1 geliyorsa
+ şu anki sayıyı ekrana yaz
+sayaç a 1 ekle

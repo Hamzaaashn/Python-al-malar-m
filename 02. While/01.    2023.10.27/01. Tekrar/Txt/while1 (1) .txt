@@ -1,0 +1,8 @@
+sayı = 1   ( sayaç olarak)
+
+eğer sayı 30 veya 30 dan küçükse sürekli tekrarla
+ 
+
+    eğer sayı 2 ye tam bölümünden 0 gelmiyorsa :
+     ekrana şu anki sayıyı gir
+    sayı yı 1 arttır
